@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manujaya De Silva</h1>
 <h3 align="center">A passionate developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manujayadesilva&label=Profile%20views&color=0e75b6&style=flat" alt="manujayadesilva" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=manujayadesilva&label=Profile%20views&color=0e75b6&style=flat" alt="manujayadesilva" /> </p>
 
 - 📫 How to reach me **heshanmanujaya@gmail.com**
 
